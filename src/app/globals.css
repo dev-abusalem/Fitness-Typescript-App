@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hero_background{
+  background-image: url("../../public//images/hero.webp");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90vh;
+}
+.challenge_background{
+  background-image: url("../../public//images/challange.webp");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
